@@ -1,0 +1,9 @@
+[package]
+name = "arm_shenanigans"
+version = "0.1.0"
+authors = ["Jess 3Jane <me@jess.coffee>"]
+edition = "2018"
+
+[dependencies]
+tempdir = "0.3"
+unicorn = "0.8"
